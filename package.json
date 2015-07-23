@@ -1,0 +1,9 @@
+{
+"name": "example02",
+"version": "0.0.1",
+    "repository": "https://github.com/andytrail/nodebook.git",
+"dependencies": {
+"underscore": "~1.2.1",
+    "snmp-native": ""
+}
+}
